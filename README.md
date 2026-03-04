@@ -55,9 +55,9 @@
 
 ###
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cookie131223/Cookie131223/output/pacman-contribution-graph-dark.svg?cache_bust=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cookie131223/Cookie131223/output/pacman-contribution-graph.svg?cache_bust=1">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cookie131223/Cookie131223/output/pacman-contribution-graph.svg?cache_bust=1">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cookie131223/Cookie131223/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cookie131223/Cookie131223/output/github-contribution-grid-snake.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cookie131223/Cookie131223/output/github-contribution-grid-snake.svg">
 </picture>
 
 ###
