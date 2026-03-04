@@ -25,7 +25,7 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          dist/pacman-contribution-graph.svg?color_snake=yellow&snake_type=pacman
            outputs: |
             dist/pacman-contribution-graph.svg?color_snake=yellow&snake_type=pacman
             dist/pacman-contribution-graph-dark.svg?color_snake=yellow&snake_type=pacman&palette=github-dark
