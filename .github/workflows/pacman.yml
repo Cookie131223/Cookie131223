@@ -27,8 +27,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/pacman-contribution-graph.svg?palette=github-dark&color_snake=yellow&snake_type=pacman
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=yellow&snake_type=pacman
+            dist/pacman-contribution-graph.svg?color_snake=yellow&snake_type=pacman
+            dist/pacman-contribution-graph-dark.svg?color_snake=yellow&snake_type=pacman&palette=github-dark
       # Sobe os arquivos gerados para uma branch chamada 'output'
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
