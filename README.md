@@ -27,7 +27,7 @@
 ###
 
 <h1 align="center">hey everone 👋</h1>
-<h2 align="center">Come in to my world 👋</h2>
+<h2 align="center">Come in to my world</h2>
 
 ###
 
