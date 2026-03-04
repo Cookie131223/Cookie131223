@@ -26,7 +26,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
+           outputs: |
             dist/pacman-contribution-graph.svg?color_snake=yellow&snake_type=pacman
             dist/pacman-contribution-graph-dark.svg?color_snake=yellow&snake_type=pacman&palette=github-dark
       # Sobe os arquivos gerados para uma branch chamada 'output'
