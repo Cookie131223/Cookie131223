@@ -52,18 +52,13 @@ hq:             portifolio-sigma-three-46.vercel.app
 ### ◢ SYSTEM DIAGNOSTICS
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cookie131223&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=C62828&text_color=C9D1D9&ring_color=FFD700" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cookie131223&layout=compact&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=C9D1D9" alt="top langs"/>
+  <img src="https://raw.githubusercontent.com/Cookie131223/Cookie131223/output/hud-stats.svg" width="100%" alt="system diagnostics"/>
 </div>
 
 ### ◢ COMBAT LOG
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cookie131223/Cookie131223/output/pacman-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cookie131223/Cookie131223/output/pacman.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cookie131223/Cookie131223/output/pacman-dark.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Cookie131223/Cookie131223/output/hud-activity.svg" width="100%" alt="combat log"/>
 </div>
 
 <div align="center">
