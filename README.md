@@ -1,65 +1,73 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+<img src="./assets/hud-header.svg" width="100%" alt="HUD header"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FFD700&center=true&vCenter=true&width=640&lines=Initializing+Sexta-feira...;All+systems+online.+Welcome+back%2C+Pedro.;Training+protocol%3A+Software+Engineering;Judo+by+day%2C+code+by+night." alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/pedro-lucas-possidonio-11a94534a/"><img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/_cookiexr"><img src="https://img.shields.io/badge/Instagram-8B0000?style=for-the-badge&logo=instagram&logoColor=FFD700" alt="Instagram"/></a>
+<a href="mailto:pedropossid3@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Gmail"/></a>
+<a href="https://portifolio-sigma-three-46.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=8B0000" alt="Portfolio"/></a>
+<a href="https://jarvis-hibrido.vercel.app/"><img src="https://img.shields.io/badge/Talk_to_Sexta--feira-FFD700?style=for-the-badge&logo=probot&logoColor=8B0000" alt="Sexta-feira"/></a>
+
+<br/><br/>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Cookie131223.Cookie131223&left_text=VISITORS&left_color=darkred&right_color=darkgoldenrod" alt="visitors"/>
+
 </div>
 
-###
+---
+
+### ◢ PILOT PROFILE
+
+```yaml
+pilot:          Pedro dos Santos
+base:           Lins, Brazil
+current_mission: Docs & Logistics @ MALED TRADING
+training:       Software Engineering
+side_quests:    [judo, exploring other programming languages]
+ai_copilot:     Sexta-feira  # my local AI assistant
+hq:             portifolio-sigma-three-46.vercel.app
+```
+
+### ◢ ACTIVE PROJECTS // MARK SERIES
+
+| Suit | Project | What it does |
+|:---:|---|---|
+| **MK I** | [Sexta-feira](https://jarvis-hibrido.vercel.app/) | Local AI assistant with Portuguese voice, wakes up with two claps |
+| **MK II** | Tripora | Travel website in PHP with 3D effects |
+| **MK III** | [Gestão Pro](https://gestao-pro-kappa.vercel.app/) | Management web app |
+| **MK IV** | PC Builder Simulator | Gamified PC-building simulator (team project) |
+
+### ◢ ARSENAL
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,mysql,react,nodejs,js,html,css,php,git,vercel&theme=dark" alt="skills"/>
+</p>
+
+### ◢ SYSTEM DIAGNOSTICS
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pedro-lucas-possidonio-11a94534a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  
-  <a href="https://www.instagram.com/_cookiexr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
-  </a>
-  
-  <a href="mailto:pedropossid3@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cookie131223&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=C62828&text_color=C9D1D9&ring_color=FFD700" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cookie131223&layout=compact&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=C9D1D9" alt="top langs"/>
 </div>
 
-###
+### ◢ COMBAT LOG
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Cookie131223.Cookie131223&"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cookie131223/Cookie131223/output/pacman-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cookie131223/Cookie131223/output/pacman.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cookie131223/Cookie131223/output/pacman-dark.svg">
+  </picture>
 </div>
 
-###
+<div align="center">
 
-<h1 align="center">hey everyone 👋</h1>
-<h2 align="center">Come in to my world</h2>
+<sub><code>◢ SEXTA-FEIRA: session saved. See you next time, Pedro.</code></sub>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Pedro dos Santos from Lins, Brazil<br><br>- 🔭 I’m working as Docs & Logistics Department | MALED TRADING<br>- 📚 I'm currently learning software engineering<br>- ⚡ In my free time I play judo and study order programming languages</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
-
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cookie131223/Cookie131223/output/pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cookie131223/Cookie131223/output/pacman.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cookie131223/Cookie131223/output/pacman.svg">
-</picture>
-
-###
-
-
